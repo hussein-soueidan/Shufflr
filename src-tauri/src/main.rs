@@ -1,1 +1,5 @@
-ÿóëz÷§¶Æv+b¢v¥r‰ì¢W°ŠwhÂ‰ÖŠwhÂÈ§
+fn main() {
+    tauri::Builder::default()
+        .run(tauri::generate_context!())
+        .expect("error while running tauri application");
+}
