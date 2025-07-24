@@ -1,0 +1,6 @@
+{
+  "name": "Shufflr Tauri",
+  "description": "Shufflr is an advanced file management and batch renaming application designed to bring powerful, streamlined file operations to your fingertips. Import, view, sort, and execute complex renaming tasks with ease.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
