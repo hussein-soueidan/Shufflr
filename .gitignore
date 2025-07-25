@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Flutter
+.dart_tool/
+build/
+.pub-cache/
+.packages
+flutter_shufflr/pubspec.lock
