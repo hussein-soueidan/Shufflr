@@ -13,7 +13,13 @@
     "allowlist": {
       "all": false,
       "fs": {
-        "all": true,
+        "all": false,
+        "readFile": true,
+        "writeFile": true,
+        "readDir": true,
+        "copyFile": true,
+        "createDir": true,
+        "removeFile": true,
         "scope": [
           "$DOWNLOAD/**",
           "$DOCUMENT/**",
